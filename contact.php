@@ -36,11 +36,11 @@
 
                     <h5 class="mt-4">Call us</h5>
                     <a href="tel: +91XXXXXXXXXX" class="d-inline-block mb-2 text-decoration-none text-dark">
-                        <i class="bi bi-telephone-fill"></i>+91XXXXXXXXXX
+                        <i class="bi bi-telephone-fill"></i>+917798254629
                     </a>
                     <br>
                     <a href="tel: +91XXXXXXXXXX" class="d-inline-block text-decoration-none text-dark">
-                        <i class="bi bi-telephone-fill"></i>+91XXXXXXXXXX
+                        <i class="bi bi-telephone-fill"></i>+918995846258
                     </a>
 
                     <h5 class="mt-4">Email</h5>
