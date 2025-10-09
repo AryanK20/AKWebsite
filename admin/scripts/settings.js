@@ -206,7 +206,6 @@
                     member_name_inp.value='';
                     member_picture_inp.value='';
                     get_members();
-
                 }
 
             }
